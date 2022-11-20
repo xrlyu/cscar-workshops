@@ -14,4 +14,4 @@ Topics covered in this session include:
     - For/while loops
     - Functions
 
-To download materials for this workshop, use the [link](https://bit.ly/cscar-r-basics)
+Use this [link](https://bit.ly/cscar-r-basics) to download materials for this workshop.
