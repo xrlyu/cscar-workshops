@@ -3,4 +3,4 @@ This is a series of workshops to introduce the R programming language, as well a
  
 1. The Basics of R — Basic concepts and commands of the R programming language.
 2. Data Management and Manipulation — Exploring, organizing and manipulating data using dplyr syntax.
-3. Data Visualization – Create informative graphics with improved quality and aesthetics using ggplot2.
+3. Data Visualization – Creating informative graphics with improved quality and aesthetics using ggplot2.
