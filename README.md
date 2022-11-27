@@ -8,4 +8,4 @@ This repository contains materials for my [CSCAR](https://cscar.research.umich.e
 **Introduction to R**
 - The Basics of R: Basic concepts and commands of the R programming language.
 - Data Manipulation with `dplyr`: Exploring, organizing and manipulating data using dplyr syntax.
-- Data visualization with `ggplot2`: Create informative graphics with improved quality and aesthetics using ggplot2.
+- Data visualization with `ggplot2`: Creating informative graphics with improved quality and aesthetics using ggplot2.
