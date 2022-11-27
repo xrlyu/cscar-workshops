@@ -14,7 +14,7 @@
 library(tidyverse)
 
 # Read data on exam scores from Section A
-exam = read.csv("Data/student_section_A_scores.csv")
+exam = read.csv("Data/student_exam/student_section_A_scores.csv")
 
 ## Rowwise operation -----------------------------------------------------------
 

@@ -13,11 +13,11 @@
 library(tidyverse)
 
 # Read data on exams scores from sections A and B, respectively
-exam_a = read.csv("Data/student_section_A_scores.csv")
-exam_b = read.csv("Data/student_section_B_scores.csv")
+exam_a = read.csv("Data/student_exam/student_section_A_scores.csv")
+exam_b = read.csv("Data/student_exam/student_section_B_scores.csv")
 
 # Read data on demographic characteristics from students in sections and A and B
-demo = read.csv("Data/student_characteristics.csv")
+demo = read.csv("Data/student_exam/student_characteristics.csv")
 
 ## Bind two datasets by row ----------------------------------------------------
 

@@ -13,8 +13,8 @@
 library(tidyverse)
 
 # Read Boston Airbnb listings data into a data frame named listings. 
-# The data file is stored in the "Data" folder.
-listings = read.csv("Data/boston_airbnb_listings.csv")
+# The data file is stored in the "boston_airbnb" folder in the "Data" folder.
+listings = read.csv("Data/boston_airbnb/listings.csv")
 
 # simple exploration of the dataset
 # 1. What's the dimension of the data?

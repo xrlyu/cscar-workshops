@@ -13,10 +13,10 @@
 library(tidyverse)
 
 # Read data on exam scores
-exam = read.csv("Data/student_exam_scores.csv")
+exam = read.csv("Data/student_exam/student_exam_scores.csv")
 
 # Read data on test prep
-prep = read.csv("Data/student_test_prep.csv")
+prep = read.csv("Data/student_exam/student_test_prep.csv")
 
 ## Join two datsets ------------------------------------------------------------
 
